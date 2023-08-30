@@ -85,7 +85,7 @@ body{
         grid-column: 1/3;
         grid-row: 1/2;
         max-height: 250px;
-        max-width: 640px;
+        
     }
     
     .main{
@@ -94,7 +94,7 @@ body{
         grid-column: 1/2;
         grid-row: 2/3;
         max-height: 250px;
-        max-width: 640px;
+       
     }
     
     .footer{
@@ -102,7 +102,7 @@ body{
         grid-column: 2/3;
         grid-row: 2/3;
         max-height: 250px;
-        max-width: 640px;
+        
         
         
     }
